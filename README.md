@@ -1,2 +1,2 @@
-# Ivan-Moller.github.io
+# ivanmoller.github.io
 This is my GitHub page!
